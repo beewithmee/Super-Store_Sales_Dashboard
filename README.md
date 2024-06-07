@@ -23,6 +23,8 @@ Different types of visualization methods like Line chart, Area chart, Bar chart,
 For forecasting line chart is used as it is the only visualization chart that supports forecasting. 
 Here future prediction is allowed for 15 days. Confidence interval for the predicted data is 95%.
 
+**Data Size**: 5,901 Rows, 22 Columns
+
 **Insights**
 
 The store sold a total of 22.3k quantities of items worth a total of $1.6M.
