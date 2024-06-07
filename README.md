@@ -1,24 +1,30 @@
-Super Store Sales Data Analysis and Forecasting Power BI Dashboard
+**Super Store Sales Data Analysis and Forecasting Power BI Dashboard**
+
 
 ![Sales_dashboard_page-0001](https://github.com/beewithmee/Super-Store_Sales_Dashboard/assets/163542182/8a42c6ca-99e7-47b3-8e51-f37730bc21e6)
 ![Sales_dashboard_page-0002](https://github.com/beewithmee/Super-Store_Sales_Dashboard/assets/163542182/3a7cd0db-2923-4755-b1fc-7cb5911af323)
 
 **Problem Statement**
+
 The project aims to conduct a comprehensive analysis of sales performance for SuperStore, a leading company in the retail sector. 
 By delving into various aspects of sales, identifying key performance indicators (KPIs), and developing robust forecasting models, the objective is to equip SuperStore with actionable insights to optimize its sales strategies, drive revenue growth, and maintain a competitive edge in the market.
 
 **Data Preparation and Modelling**
+
 After importing the data from the data source performed powerquery is used for datacleaning and datamodelling. Dax queries are used to append or create calculated measures.
 
 **Data Visualization**
+
 Then an insightful dashboard is created that shows high-level overview of multiple parameters and KPIs. 
 Different types of visualization methods like Line chart, Area chart, Bar chart, Column chart, Donut chart, Map are used.
 
 **Details on Forecasting**
+
 For forecasting line chart is used as it is the only visualization chart that supports forecasting. 
 Here future prediction is allowed for 15 days. Confidence interval for the predicted data is 95%.
 
 **Insights**
+
 The store sold a total of 22.3k quantities of items worth a total of $1.6M.
 
 The store made a total profit of $175.3k.
